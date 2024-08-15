@@ -1,0 +1,8 @@
+# Ignorar a pasta node_modules
+node_modules/
+
+# Ignorar a pasta .wwebjs_cache
+.wwebjs_cache/
+
+# Ignorar o arquivo package-lock.json
+package-lock.json
